@@ -1,0 +1,26 @@
+36 ?- consult(['c:/Users/tilza/OneDrive/Documents/Prolog/Amjad.p1.pl']).
+true.
+
+36 ?- father(abdullah, sarah).
+true.
+
+37 ?- father(abdullah, ahmad).
+true.
+
+38 ?- mother(thuraya, sarah).
+true.
+
+39 ?- mother(thuraya, ahmad).
+true.
+
+40 ?- sister(sarah, maryam).
+true .
+
+41 ?- sister(maryam, amjad).
+true .
+
+42 ?- brother(khalid, amjad).
+true .
+
+43 ?- brother(ahmad, sarah).
+true 
